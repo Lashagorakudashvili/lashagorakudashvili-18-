@@ -6,6 +6,7 @@
     transition: all 0.3s;
 }
 
+/*1*/
 #clock {
     display: flex;
     align-items: center;
@@ -16,9 +17,7 @@
     margin-left: 10px;
 }
 
-
-
-
+/*2*/
 .img {
     width: 100%;
 }
@@ -100,23 +99,7 @@
     right: 20px;
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+/*2.5*/
 .circle-container {
     display: flex;
     justify-content: center;
